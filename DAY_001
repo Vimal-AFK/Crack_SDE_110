@@ -1,0 +1,84 @@
+DAY 1 
+
+APTITUDE (10)
+
+1. If the ratio of A : B is 3 : 5 and B : C is 10 : 12, find A : C.
+2. A train travels 300 km at 60 km/h and returns at 75 km/h. Find the average speed.
+3. 40% of a number is equal to 2/3 of another number. Find the ratio of the two numbers.
+4. A sum becomes 720 in 2 years at simple interest and 800 in 4 years. Find the principal.
+5. The average of 5 numbers is 24. If one number is excluded, the average becomes 22. Find the excluded number.
+6. A shopkeeper gains 20% after giving a discount of 10%. Find the ratio of marked price to cost price.
+7. Two pipes can fill a tank in 20 minutes and 30 minutes. How long will they take together?
+8. The ratio of present ages of A and B is 4 : 5. After 6 years, it becomes 5 : 6. Find the present age of A.
+9. A man walks at 4 km/h and runs at 10 km/h. He walks for half the time and runs for half the distance. Find the average speed.
+10. A number when divided by 7 leaves remainder 3. What is the remainder when its square is divided by 7?
+
+---
+
+C PROGRAMMING SNIPPETS (10)
+
+1.
+```
+int x = 5;
+printf("%d %d %d", x++, ++x, x);
+```
+
+2.
+
+int i = 0;
+while(i++ < 3)
+printf("%d ", i);
+
+3.
+
+int a = 10, b = 20;
+printf("%d", a > b ? a++ : b++);
+
+4.
+
+int x = 1;
+printf("%d", x++ + ++x);
+
+5.
+
+char c = 255;
+printf("%d", c);
+
+6.
+
+int i;
+for(i = 0; i < 5; i++);
+printf("%d", i);
+
+7.
+
+int a = 5;
+printf("%d %d", a, a <<= 1);
+
+8.
+
+int x = 3;
+if(x = 2)
+printf("Yes");
+else
+printf("No");
+
+9.
+
+int i = 5;
+printf("%d", i++ * i++);
+
+10.
+
+int x = 0;
+printf("%d", x && ++x);
+
+---
+
+DSA QUESTIONS (3)
+
+1. Roman to Integer - [ https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1?page=1&company=Zoho&difficulty=Easy&status=unsolved&sortBy=difficulty ]
+2. K - Pangrams - [ https://www.geeksforgeeks.org/problems/k-pangrams0909/1?page=1&company=Zoho&difficulty=Easy&status=unsolved&sortBy=difficulty ]
+3. Is Square - [ https://www.geeksforgeeks.org/problems/is-square1846/1?page=1&company=Zoho&difficulty=Easy&status=unsolved&sortBy=difficulty ]
+
+---
