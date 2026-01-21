@@ -19,6 +19,8 @@ This repository documents consistent daily practice across:
 - [Day 001](DAY_001.md)
 - [Day 002](DAY_002.md)
 - [Day 003](DAY_003.md)
+- [Day 004](DAY_004.md)
+- [Day 005](DAY_005.md)
 
 ## Purpose
 
